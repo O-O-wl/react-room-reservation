@@ -8,10 +8,10 @@
 
 # 로그인 이전의 예약 창 # 
 <img width="1060" alt="2018-08-16 8 05 50" src="https://user-images.githubusercontent.com/39197978/44205465-703a5100-a191-11e8-99fa-4363d959363f.png">
-
+# 로그인 성공후의 예약창 #
 <img width="953" alt="2018-08-16 8 18 03" src="https://user-images.githubusercontent.com/39197978/44205500-8fd17980-a191-11e8-87b8-4e0ca062a91c.png">
-
+# 건물 에 해당하느 강의실 리스트 (인덱스 확인을 위해 인덱스 ) #
 <img width="1001" alt="2018-08-16 8 18 09" src="https://user-images.githubusercontent.com/39197978/44205504-9233d380-a191-11e8-955a-d5ed62af53cd.png">
-
+# props로 받아온 유저의 아이디 #
 <img width="1104" alt="2018-08-16 8 18 25" src="https://user-images.githubusercontent.com/39197978/44205509-93fd9700-a191-11e8-83a4-a9a4fbce879b.png">
 
